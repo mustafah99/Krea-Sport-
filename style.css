@@ -198,7 +198,7 @@ main section p {
   margin: 0 auto;
   border: none;
   border-radius: 10px;
-  height: 60px;
+  height: 50px;
   width: 140px;
   background: -webkit-gradient(linear, left top, right top, from(#317db4), to(#3145b4));
   background: linear-gradient(90deg, #317db4, #3145b4);
