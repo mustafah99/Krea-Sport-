@@ -50,7 +50,7 @@ body {
 
 .backgroundOverlay {
   background: rgba(0, 0, 0, 0.6);
-  position: absolute;
+  position: fixed;
   height: 100%;
   top: 0;
   bottom: 0;
@@ -215,7 +215,6 @@ main section p {
 footer {
   grid-row: -1;
   grid-column: 1 / -1;
-  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
